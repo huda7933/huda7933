@@ -1,4 +1,4 @@
-### Hello! I'm Huda :)
+## Hello! I'm Huda :)
 ## I'm a 2nd year Computer Science student aspiring to be a software engineer!
 
 - ⚙️ I’m currently working on an advocacy website for women in STEM
